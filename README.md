@@ -1,0 +1,3 @@
+# POS-tagging-on-tagged-brown-corpus
+The project does POS tagging on tagged brown corpus using Hidden Markov Model (Viterbi Algorithm) and CRF (Conditional Random Fields)
+Before we use the probabilistic methods mentioned above to tag the words, it is necessary for us to do the data preparation such as splitting the data in to Training and Test data. Brown Corpus was compiled in the 1960s by Henry Kučera and W. Nelson Francis at Brown University, Providence, Rhode Island as a general corpus (text collection) in the field of corpus linguistics. It contains 500 samples of English-language text, totaling roughly one million words, compiled from works published in the United States in 1961.
